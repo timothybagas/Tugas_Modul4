@@ -24,6 +24,9 @@ def inv_m33(x):
 def error():
     print("\nMasukan SALAH !!!")
 
+print("Tugas Modul 4 Kelompok 45")
+print("- Syahrul Ramadhan / 21120119120011")
+print("- Timothy Bagaskara / 21120119130088")
 print("---PROGRAM KALKULATOR MATRIKS---\n")
 print("Ukuran Matriks")
 print("1. Matriks 2x2")
